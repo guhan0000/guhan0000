@@ -29,7 +29,7 @@
   </a>
 
   <a href="https://spring.io/projects/spring-boot" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" 
+    <img src="https://spring.io/img/projects/spring-boot.svg" 
          alt="Spring Boot" width="40" height="40"/>
   </a>
 
