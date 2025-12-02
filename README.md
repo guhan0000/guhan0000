@@ -42,9 +42,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" 
          alt="Swagger" width="40" height="40"/>
   </a>
-  <!-->
-https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg
-</!-->
+ 
 
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" 
