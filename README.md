@@ -34,7 +34,7 @@
   </a>
 
   <a href="https://maven.apache.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg"
          alt="Maven" width="40" height="40"/>
   </a>
 
