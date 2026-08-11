@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guhan</h1>
-<h3 align="center">Leveling Up in Java FullStack Web Development</h3>
+<h3 align="center">Leveling Up in FullStack Web Development</h3>
 
-- 🌱 I’m currently learning **Java FullStack Development**
+- 🌱 I’m currently learning **FullStack Development**
 - 📫 How to reach me **guhanm0000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
