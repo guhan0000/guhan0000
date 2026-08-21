@@ -28,15 +28,9 @@
          alt="Java" width="40" height="40"/>
   </a>
 
-  <a href="https://spring.io/projects/spring-boot" target="_blank">
-    <img src="https://spring.io/img/projects/spring-boot.svg" 
-         alt="Spring Boot" width="40" height="40"/>
-  </a>
+  
 
-  <a href="https://maven.apache.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg"
-         alt="Maven" width="40" height="40"/>
-  </a>
+ 
 
   <a href="https://swagger.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" 
