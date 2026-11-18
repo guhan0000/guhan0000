@@ -28,19 +28,34 @@
          alt="Java" width="40" height="40"/>
   </a>
 
-  
-
- 
-
   <a href="https://swagger.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" 
          alt="Swagger" width="40" height="40"/>
   </a>
- 
 
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" 
          alt="React" width="40" height="40"/>
+  </a>
+
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" 
+         alt="Node.js" width="40" height="40"/>
+  </a>
+
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" 
+         alt="Next.js" width="40" height="40"/>
+  </a>
+
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" 
+         alt="Express" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" 
+         alt="MongoDB" width="40" height="40"/>
   </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
@@ -67,9 +82,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" 
          alt="MySQL" width="40" height="40"/>
   </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" 
-         alt="spring boot" width="40" height="40"/>
+         alt="Spring Boot" width="40" height="40"/>
   </a>
 
   <a href="https://git-scm.com/" target="_blank">
